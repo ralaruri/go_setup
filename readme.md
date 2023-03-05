@@ -1,7 +1,3 @@
-
-## This is my Journey Of Learning Go in 2022
-- I am going to first get some background knowledge on go 
-
 ## Setup 
 
 ### Installing Go using asdf
@@ -24,10 +20,5 @@ if you need to a set a local env.
 - `asdf local go latest`
 
 
-
-## Tutorials and Guides
-### WIP 
-- [X]https://www.codecademy.com/courses/learn-go/
-- [X]https://www.youtube.com/channel/UCEXtPiqFrcdzFRKqwazI1NA
 
 
