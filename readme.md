@@ -27,7 +27,7 @@ if you need to a set a local env.
 
 ## Tutorials and Guides
 ### WIP 
--[ ]https://www.codecademy.com/courses/learn-go/
--[ ]https://www.youtube.com/channel/UCEXtPiqFrcdzFRKqwazI1NA
+- [X]https://www.codecademy.com/courses/learn-go/
+- [X]https://www.youtube.com/channel/UCEXtPiqFrcdzFRKqwazI1NA
 
 
